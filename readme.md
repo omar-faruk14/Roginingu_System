@@ -4,6 +4,8 @@ The Roginingu system application is integrated within the LINE messaging platfor
 
 ## Key Features
 
+![Project Image](/img/Roginingu1.jpg)
+
 ### Real-time Photo Capture
 Users can capture photos in real-time using their mobile devices directly through the LINE messenger app. This functionality is crucial for documenting current conditions in various locations.
 
@@ -19,10 +21,15 @@ The captured images, along with the associated location and additional informati
 ### Map Visualization
 The application provides a map-based interface to visualize the captured photos and their corresponding data. Each photo is displayed as a marker on the map, and users can click on these markers to view detailed information, including the photo, location, and any additional notes or descriptions.
 
+![Project Image](/img/Roginingu2.png)
+
 ## Applications and Use Cases
 
 The Roginingu system application is versatile and can be used in various urban planning and management scenarios:
 
 - **Vacant House Identification**: Helps local authorities and residents identify and document vacant houses in the town, which can be critical for urban renewal projects.
+
+![Project Image](/img/Roginingu3.png)
+
 - **Construction Area Mapping**: Assists in marking and monitoring construction sites, ensuring that all areas are properly documented and tracked.
 - **Town Development Projects**: Supports various town development initiatives by providing a reliable tool for visualizing and managing site-specific data, aiding in decision-making processes.
